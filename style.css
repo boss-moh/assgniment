@@ -1,0 +1,14 @@
+/* Task 2 */
+h1 {
+  text-align: center;
+}
+
+ul {
+  border: 1px;
+  background-color: lightgray;
+}
+
+li {
+  font-weight: bold;
+  color: green;
+}
